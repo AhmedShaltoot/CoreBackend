@@ -1,0 +1,29 @@
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\bin\Debug\net6.0\RFIDDAL.deps.json
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\bin\Debug\net6.0\RFIDDAL.runtimeconfig.json
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\bin\Debug\net6.0\RFIDDAL.dll
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\bin\Debug\net6.0\RFIDDAL.pdb
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.csproj.AssemblyReference.cache
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.AssemblyInfoInputs.cache
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.AssemblyInfo.cs
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.csproj.CoreCompileInputs.cache
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.sourcelink.json
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.dll
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\obj\Debug\net6.0\refint\RFIDDAL.dll
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.pdb
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.genruntimeconfig.cache
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDDAL\obj\Debug\net6.0\ref\RFIDDAL.dll
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\bin\Debug\net6.0\RFIDDAL.deps.json
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\bin\Debug\net6.0\RFIDDAL.runtimeconfig.json
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\bin\Debug\net6.0\RFIDDAL.dll
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\bin\Debug\net6.0\RFIDDAL.pdb
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.csproj.AssemblyReference.cache
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.AssemblyInfoInputs.cache
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.AssemblyInfo.cs
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.csproj.CoreCompileInputs.cache
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.dll
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\obj\Debug\net6.0\refint\RFIDDAL.dll
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.pdb
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\obj\Debug\net6.0\RFIDDAL.genruntimeconfig.cache
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDDAL\obj\Debug\net6.0\ref\RFIDDAL.dll

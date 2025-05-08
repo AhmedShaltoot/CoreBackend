@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CaiB3xJ9+LEXtCFfMKpxxhBnT7vAyVbKdd86lKZZOW8=",
+  "Source": "RFIDAPI",
+  "BasePath": "_content/RFIDAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

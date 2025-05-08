@@ -1,0 +1,14 @@
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\bin\Release\net6.0\SiruBabCoreDAL.deps.json
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\bin\Release\net6.0\SiruBabCoreDAL.runtimeconfig.json
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\bin\Release\net6.0\SiruBabCoreDAL.dll
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\bin\Release\net6.0\SiruBabCoreDAL.pdb
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\obj\Release\net6.0\SiruBabCoreDAL.csproj.AssemblyReference.cache
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\obj\Release\net6.0\SiruBabCoreDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\obj\Release\net6.0\SiruBabCoreDAL.AssemblyInfoInputs.cache
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\obj\Release\net6.0\SiruBabCoreDAL.AssemblyInfo.cs
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\obj\Release\net6.0\SiruBabCoreDAL.csproj.CoreCompileInputs.cache
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\obj\Release\net6.0\SiruBabCoreDAL.dll
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\obj\Release\net6.0\refint\SiruBabCoreDAL.dll
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\obj\Release\net6.0\SiruBabCoreDAL.pdb
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\obj\Release\net6.0\SiruBabCoreDAL.genruntimeconfig.cache
+E:\New Volume D\Siru\SiruBabAPI\SiruBabCore_Admin\SiruBabCoreDAL\obj\Release\net6.0\ref\SiruBabCoreDAL.dll

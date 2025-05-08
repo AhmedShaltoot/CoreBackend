@@ -1,0 +1,15 @@
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\bin\Release\net6.0\HospitalCareBLL.deps.json
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\bin\Release\net6.0\HospitalCareBLL.dll
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\bin\Release\net6.0\HospitalCareBLL.pdb
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\bin\Release\net6.0\HospitalCareDAL.dll
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\bin\Release\net6.0\HospitalCareDAL.pdb
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\obj\Release\net6.0\HospitalCareBLL.csproj.AssemblyReference.cache
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\obj\Release\net6.0\HospitalCareBLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\obj\Release\net6.0\HospitalCareBLL.AssemblyInfoInputs.cache
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\obj\Release\net6.0\HospitalCareBLL.AssemblyInfo.cs
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\obj\Release\net6.0\HospitalCareBLL.csproj.CoreCompileInputs.cache
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\obj\Release\net6.0\HospitalCareBLL.csproj.CopyComplete
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\obj\Release\net6.0\HospitalCareBLL.dll
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\obj\Release\net6.0\refint\HospitalCareBLL.dll
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\obj\Release\net6.0\HospitalCareBLL.pdb
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareBLL\obj\Release\net6.0\ref\HospitalCareBLL.dll

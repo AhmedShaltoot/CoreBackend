@@ -1,0 +1,31 @@
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\bin\Debug\net6.0\RFIDBLL.deps.json
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\bin\Debug\net6.0\RFIDBLL.dll
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\bin\Debug\net6.0\RFIDBLL.pdb
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\bin\Debug\net6.0\RFIDDAL.dll
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\bin\Debug\net6.0\RFIDDAL.pdb
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.csproj.AssemblyReference.cache
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.AssemblyInfoInputs.cache
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.AssemblyInfo.cs
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.csproj.CoreCompileInputs.cache
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.sourcelink.json
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.csproj.Up2Date
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.dll
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\obj\Debug\net6.0\refint\RFIDBLL.dll
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.pdb
+E:\New Volume D\Siru\NayefUniversity\RFID_Project\RFIDBLL\obj\Debug\net6.0\ref\RFIDBLL.dll
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\bin\Debug\net6.0\RFIDBLL.deps.json
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\bin\Debug\net6.0\RFIDBLL.dll
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\bin\Debug\net6.0\RFIDBLL.pdb
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\bin\Debug\net6.0\RFIDDAL.dll
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\bin\Debug\net6.0\RFIDDAL.pdb
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.csproj.AssemblyReference.cache
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.AssemblyInfoInputs.cache
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.AssemblyInfo.cs
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.csproj.CoreCompileInputs.cache
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.csproj.Up2Date
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.dll
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\obj\Debug\net6.0\refint\RFIDBLL.dll
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\obj\Debug\net6.0\RFIDBLL.pdb
+E:\New Volume D\Siru\for shaltoot\Shaltoot_Project\RFIDBLL\obj\Debug\net6.0\ref\RFIDBLL.dll

@@ -1,0 +1,14 @@
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\bin\Release\net6.0\HospitalCareDAL.deps.json
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\bin\Release\net6.0\HospitalCareDAL.runtimeconfig.json
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\bin\Release\net6.0\HospitalCareDAL.dll
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\bin\Release\net6.0\HospitalCareDAL.pdb
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\obj\Release\net6.0\HospitalCareDAL.csproj.AssemblyReference.cache
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\obj\Release\net6.0\HospitalCareDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\obj\Release\net6.0\HospitalCareDAL.AssemblyInfoInputs.cache
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\obj\Release\net6.0\HospitalCareDAL.AssemblyInfo.cs
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\obj\Release\net6.0\HospitalCareDAL.csproj.CoreCompileInputs.cache
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\obj\Release\net6.0\HospitalCareDAL.dll
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\obj\Release\net6.0\refint\HospitalCareDAL.dll
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\obj\Release\net6.0\HospitalCareDAL.pdb
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\obj\Release\net6.0\HospitalCareDAL.genruntimeconfig.cache
+E:\New Volume D\HospitalCare\HospitalCare_Admin\HospitalCareDAL\obj\Release\net6.0\ref\HospitalCareDAL.dll

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Elhofy\Documents\rfidPublish</_PublishTargetUrl>
+    <History>True|2025-05-06T12:16:21.4161934Z||;True|2025-05-06T14:33:34.6091530+03:00||;True|2025-05-06T14:33:24.0621032+03:00||;True|2025-05-06T14:25:53.8873204+03:00||;True|2025-05-06T13:58:44.9420398+03:00||;True|2025-05-06T13:48:39.4107709+03:00||;True|2025-05-06T12:44:11.4353721+03:00||;True|2025-05-06T12:05:05.9406508+03:00||;True|2025-05-06T11:52:55.2573112+03:00||;True|2025-05-05T15:24:31.0950404+03:00||;True|2025-05-05T15:23:40.7426024+03:00||;True|2025-05-05T14:53:20.6312379+03:00||;True|2025-05-05T12:52:19.2018713+03:00||;True|2025-05-05T10:48:18.9797657+03:00||;True|2025-04-29T15:02:21.1240827+03:00||;True|2025-04-28T17:26:04.9267597+03:00||;True|2025-04-16T17:49:32.9799303+03:00||;True|2025-04-16T15:18:43.0898841+03:00||;True|2025-04-15T14:39:37.1746353+03:00||;True|2025-04-15T14:29:50.4669979+03:00||;True|2025-04-15T14:24:01.8718611+03:00||;True|2025-04-15T14:11:03.8136130+03:00||;True|2025-04-15T12:49:00.9352540+03:00||;True|2025-04-13T18:02:11.3724913+03:00||;True|2025-04-10T12:56:16.3650488+03:00||;True|2025-04-10T11:30:43.8620289+03:00||;True|2025-04-09T13:38:35.1472772+03:00||;True|2025-04-09T13:13:06.5406260+03:00||;True|2025-04-09T12:56:33.3507181+03:00||;True|2025-04-08T13:40:11.5248974+03:00||;True|2025-04-08T10:48:36.2517449+03:00||;True|2025-04-07T12:05:12.0731941+03:00||;True|2025-04-07T12:02:32.7997234+03:00||;True|2025-04-07T12:00:23.6852233+03:00||;True|2025-04-07T11:43:44.3960860+03:00||;True|2025-04-06T12:29:56.7133654+03:00||;True|2025-03-23T14:51:10.7622194+03:00||;True|2025-03-23T14:23:48.9068530+03:00||;True|2025-03-23T14:13:03.0039586+03:00||;True|2025-03-20T12:50:44.7870266+03:00||;True|2025-03-20T01:09:11.4076732+03:00||;True|2025-03-20T00:45:21.4080793+03:00||;True|2025-03-19T17:31:41.8507945+03:00||;True|2025-03-17T22:46:35.4807133+03:00||;True|2025-03-17T15:42:45.8546806+03:00||;True|2025-03-16T17:34:35.9884241+03:00||;True|2025-03-16T17:31:51.8766431+03:00||;True|2025-03-16T17:23:41.5888141+03:00||;True|2025-03-16T17:02:17.5855618+03:00||;True|2025-03-16T14:14:33.2713791+03:00||;True|2025-03-16T13:09:38.9252473+03:00||;True|2025-03-16T12:07:51.3122969+03:00||;True|2025-03-12T15:24:41.7866892+03:00||;True|2025-03-12T11:51:35.6665501+03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Invoices/1234455.pdf">
+      <publishTime>07/03/2024 09:55:03</publishTime>
+    </File>
+    <File Include="Invoices/ابو عمار-1234455.pdf">
+      <publishTime>07/03/2024 11:52:11</publishTime>
+    </File>
+    <File Include="UploadedDocs/Bond Request/BOROL, YASSERMR.pdf">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/Bond Request/test new .pdf">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/Bond Request/test.pdf">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/EventsImages/string8-26-2023 4-08-56 PM.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/EventsImages/string8-26-2023-10-28-04-PM.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/EventsImages/string8-30-2023-2-30-31-PM.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/EventsImages/test-new-one9-13-2023-9-55-48-AM.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/EventsImages/test-new8-30-2023-2-30-31-PM.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/log.txt">
+      <publishTime>04/21/2024 22:35:17</publishTime>
+    </File>
+    <File Include="UploadedDocs/TicketQR/2023/8/27/10.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/TicketQR/2023/8/27/11.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/TicketQR/2023/8/27/12.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/TicketQR/2023/8/27/13.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/TicketQR/2023/8/27/13_34.png.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/TicketQR/2023/8/27/9.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/TicketQR/2023/8/28/11.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="UploadedDocs/TicketQR/2023/8/28/12.png">
+      <publishTime>04/21/2024 22:35:18</publishTime>
+    </File>
+    <File Include="wkhtmltopdf/libwkhtmltox.dll">
+      <publishTime>06/10/2020 23:02:46</publishTime>
+    </File>
+    <File Include="wkhtmltopdf/wkhtmltoimage.exe">
+      <publishTime>06/10/2020 23:04:02</publishTime>
+    </File>
+    <File Include="wkhtmltopdf/wkhtmltopdf.exe">
+      <publishTime>06/10/2020 23:03:24</publishTime>
+    </File>
+    <File Include="wkhtmltox/libwkhtmltox.a">
+      <publishTime>06/11/2020 03:24:00</publishTime>
+    </File>
+    <File Include="wkhtmltox/libwkhtmltox.dll">
+      <publishTime>06/11/2020 03:24:00</publishTime>
+    </File>
+    <File Include="wkhtmltox/wkhtmltoimage.exe">
+      <publishTime>06/11/2020 03:24:58</publishTime>
+    </File>
+    <File Include="wkhtmltox/wkhtmltopdf.exe">
+      <publishTime>06/11/2020 03:24:30</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

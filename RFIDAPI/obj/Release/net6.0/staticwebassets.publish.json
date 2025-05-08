@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EXkSjJ9LLwUAizlCT4eQW7HoDfcu92ZpB6vvAy0eKDc=",
+  "Source": "RFIDAPI",
+  "BasePath": "_content/RFIDAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
