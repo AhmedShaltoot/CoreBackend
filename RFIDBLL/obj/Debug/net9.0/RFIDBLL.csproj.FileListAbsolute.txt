@@ -1,0 +1,16 @@
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\obj\Debug\net9.0\RFIDBLL.csproj.AssemblyReference.cache
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\obj\Debug\net9.0\RFIDBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\obj\Debug\net9.0\RFIDBLL.AssemblyInfoInputs.cache
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\obj\Debug\net9.0\RFIDBLL.AssemblyInfo.cs
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\obj\Debug\net9.0\RFIDBLL.csproj.CoreCompileInputs.cache
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\obj\Debug\net9.0\RFIDBLL.sourcelink.json
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\bin\Debug\net9.0\RFIDBLL.deps.json
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\bin\Debug\net9.0\RFIDBLL.dll
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\bin\Debug\net9.0\RFIDBLL.pdb
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\bin\Debug\net9.0\RFIDDAL.dll
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\bin\Debug\net9.0\RFIDDAL.pdb
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\obj\Debug\net9.0\RFIDBLL.csproj.Up2Date
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\obj\Debug\net9.0\RFIDBLL.dll
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\obj\Debug\net9.0\refint\RFIDBLL.dll
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\obj\Debug\net9.0\RFIDBLL.pdb
+C:\Users\agomaa\Source\Repos\CoreBackend\RFIDBLL\obj\Debug\net9.0\ref\RFIDBLL.dll

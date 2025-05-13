@@ -102,7 +102,6 @@ builder.Services.AddTransient<IRepositoryWrapper, WrapperRepository>();
 builder.Services.AddTransient<IjwtHelper, jwtHelper>();
 builder.Services.AddTransient<IEmailService, EmailService>();
 builder.Services.AddTransient<INotificationService, NotificationService>();
-builder.Services.AddTransient<IQRCodeService, QRCodeService>();
 builder.Services.AddTransient<IStatusService, StatusService>();
 builder.Services.AddTransient<IUserService, UserService>();
 builder.Services.AddTransient<IPermissionService, PermissionService>();
