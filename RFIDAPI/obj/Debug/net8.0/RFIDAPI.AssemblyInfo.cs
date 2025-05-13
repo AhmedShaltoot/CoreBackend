@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RFIDAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eff0fc455472687b105526a818f2aa4db7bb36cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("RFIDAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RFIDAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

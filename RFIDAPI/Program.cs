@@ -168,7 +168,7 @@ if (app.Environment.IsDevelopment())
 }
 //app.UseCors();
 app.UseRouting();
-app.UseMiddleware<HttpClientRestrictionMiddleware>(); // Add this line
+//app.UseMiddleware<HttpClientRestrictionMiddleware>(); // Add this line
 
 app.UseCors("CrosOriginPolicy");
 
